@@ -63,6 +63,7 @@ section{
     box-shadow: 10px 20px 40px #ffaa00cb;
     border-radius: 10px;
     background-color: white;
+    height: 60%;
 }
 
 #side-bar{
